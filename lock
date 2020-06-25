@@ -1,0 +1,5 @@
+#!/bin/bash
+cd i3lock-fancy
+i3lock-fancy -t "Dev's Computer is Locked" -g
+
+
